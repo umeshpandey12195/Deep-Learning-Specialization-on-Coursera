@@ -6,7 +6,7 @@ This repo contains all my work for this specialization. All the code base,screen
 # Programming Assignments
  ## Course 1: Neural Networks and Deep Learning
 
-* Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
+** Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
 * Week 3 - PA 2 - Planar data classification with one hidden layer
 * Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶
 * Week 4 - PA 4 - Deep Neural Network for Image Classification: Application
