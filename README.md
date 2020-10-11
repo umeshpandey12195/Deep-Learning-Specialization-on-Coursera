@@ -27,8 +27,10 @@ There is no PA for this course. But this course comes with very interesting case
 
 * Week 1 - PA 1 - Convolutional Model: step by step
 * Week 1 - PA 2 - Convolutional Model: application
-* Week 2 - PA 1 - Keras - Tutorial - Happy House
-* Week 2 - PA 2 - Residual Networks
+* Week 2 - PA 1 - Residual Networks
+* Week 2 - PA 1 - Car detection with YOLO
+* Week 4 - PA 1 - Art generation with Neural Style Transfer
+* Week 4 - PA 2 - Face Recognition
 
 ## Course 5: Sequence Models
 
