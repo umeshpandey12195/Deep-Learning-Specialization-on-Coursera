@@ -36,3 +36,7 @@ There is no PA for this course. But this course comes with very interesting case
 
 * Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
 * Week 1 - PA 2 - Character level language model - Dinosaurus land
+* Week 2 - PA 1 - Operations on word vectors - Debiasing
+* Week 2 - PA 2 - Emojify
+* Week 3 - PA 1 - Neural Machine Translation with Attention
+* Week 3 - PA 2 - Trigger word detection
